@@ -6,13 +6,12 @@
     
 }
 
-.justify-center{
-    justify-content: center;
+hr{
+    border:0;
+    height: 1px;
+    background: #ccc;
+    margin:10px 0;
 }
-.align-items-center{
-    align-items: center;
-}
-
 p{
     font-size: 12px;
 }
